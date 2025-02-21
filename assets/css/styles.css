@@ -72,7 +72,7 @@ body{
     align-items: center;
     justify-content: center;
     padding-top: 90px;
-    background-image: url(assets/images/index1.svg);
+    background-image: url(../images/index1.svg);
     background-size: cover;
 }
 .welcome{
@@ -163,7 +163,7 @@ body{
 /*Projects Section*/
 .projects{
     /* background-color: var(--home-color3); */
-    background-image: url(assets/images/index1.svg);
+    background-image: url(../images/index1.svg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -285,7 +285,7 @@ img{
 
 /* Certifications */
 .certifications{
-  background-image: url(assets/images/index1.svg);
+  background-image: url(../images/index1.svg);
   background-size: cover;
   display: flex;
   flex-direction: column;
